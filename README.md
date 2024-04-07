@@ -5,7 +5,7 @@
 - ![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png) GitHub
 - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
 - ![Flet](imagens/flet.png) Flet
-- ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png) Flask
+- ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.bmp) Flask
 - ![Android Studio](https://img.icons8.com/color/48/000000/android-os.png) Android Studio
 - ![SDK Flutter](https://img.icons8.com/color/48/000000/flutter.png) SDK Flutter
 - Teoria da Cor
