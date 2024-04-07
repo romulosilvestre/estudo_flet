@@ -1,4 +1,4 @@
-# Aula Sábado
+# Conteúdo de Estudo
 
 ## 🚀 Tecnologias Utilizadas
 - ![Git](https://img.icons8.com/color/48/000000/git.png) Git
