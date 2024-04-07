@@ -4,7 +4,7 @@
 - ![Git](https://img.icons8.com/color/48/000000/git.png) Git
 - ![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png) GitHub
 - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-- ![Flet](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Flet
+- ![Flet](imagens/flet.png) Flet
 - ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png) Flask
 - ![Android Studio](https://img.icons8.com/color/48/000000/android-os.png) Android Studio
 - ![SDK Flutter](https://img.icons8.com/color/48/000000/flutter.png) SDK Flutter
